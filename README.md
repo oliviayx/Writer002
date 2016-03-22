@@ -29,18 +29,68 @@ Part4：文序（文章篇章结构）
 - 商务计划书
 - 畅销书策划
 
-### 学习资源
+### 课程资源索引
 
-正式上课前，请尽快预习写作课内容动笔写作，并自学上手相关工具：
+#### 课程内容
 
-- 写作课预习资料
-	 - [开智学堂认知写作学书单](http://www.yangzhiping.com/psy/cogwriter.html)，先读《修辞感觉》《红玫瑰与白玫瑰》《古诗源》
-	 - 课程导师[阳志平的文心书话系列](http://www.yangzhiping.com/psy/wenxin.html)文章
-- 需掌握的工具
-	- Markdown 写作，可参考[Markdown写作浅谈 - 阳志平的网志](http://www.yangzhiping.com/tech/r-markdown-knitr.html)及[Mastering Markdown · GitHub Guides](https://guides.github.com/features/mastering-markdown/)
-	- [GitHub](https://github.com/)（会网页版和客户端常用操作即可，比如[通过客户端提交 MarkDown 文件](https://guides.github.com/activities/forking/)、查看修订记录、[使用 Issue 进行讨论](https://guides.github.com/features/issues/)）
-- 课程额外福利
-	- 阳志平老师《工作谈》[科技创业与工作基础技能](http://t.cn/RGwYUTB)
+- [开智学堂 APP](https://github.com/OpenMindClub/Writer002/issues/42) 卡包内容
+- [开智学堂认知写作学书单](http://www.yangzhiping.com/psy/cogwriter.html)，先读《修辞感觉》《红玫瑰与白玫瑰》《古诗源》
+- 课程导师[阳志平的文心书话系列](http://www.yangzhiping.com/psy/wenxin.html)文章
+- 额外福利：阳志平[《工作谈》科技创业与工作基础技能](http://t.cn/RGwYUTB)	
+
+#### 学习指南
+
+- 课程
+	- 认知写作学课程学习指南： [HbOMWriterStu](https://github.com/OpenMindClub/Writer002/HbOMWriterStu.md)
+	- 认知写作学二期课程 FAQ ：[FAQ Issue#23 · OpenMindClub/Writer002](https://github.com/OpenMindClub/Writer002/issues/23)
+	- 每周集体答疑纪要：https://github.com/OpenMindClub/Writer002/QA
+	- 每周闪耀榜：[优秀示范 · OpenMindClub/Writer002](https://github.com/OpenMindClub/Writer002/issues?q=is%3Aissue+is%3Aopen+label%3A%E4%BC%98%E7%A7%80%E7%A4%BA%E8%8C%83)
+- 写作
+	- 写作建议：[SuggestionWriting](https://github.com/OpenMindClub/Writer002/SuggestionWriting.md)
+	- 写作清单编制指南：[HbWritingStyleChecklist](https://github.com/OpenMindClub/Writer002/HbWritingStyleChecklist.md)
+- 互评
+	- 互评原则建议：[SuggestionPeerReview](https://github.com/OpenMindClub/Writer002/SuggestionPeerReview.md)
+	- GitHub 互评指南：[HbAssignmentHandup ](https://github.com/OpenMindClub/Share/wiki/HbAssignmentHandup)
+	- 线下互助活动指南：[HbOMeeupOrganizer](https://github.com/OpenMindClub/Share/wiki/HbOMeeupOrganizer)
+- 学习习惯建议：[SuggestionLearningStyle](https://github.com/OpenMindClub/Writer002/SuggestionLearningStyle.md)
+
+#### 课程工具指南
+
+- Markdown 写作（必须掌握）
+	- 用 MarkDown 写作的好处见 [Markdown写作浅谈 - 阳志平的网志](http://www.yangzhiping.com/tech/r-markdown-knitr.html)
+	- MarkDown 语法指南见 [Mastering Markdown · GitHub Guides](https://guides.github.com/features/mastering-markdown/)
+- [GitHub](https://github.com/)（会网页版和客户端常用操作即可）
+	- [通过客户端提交 MarkDown 文件](https://guides.github.com/activities/forking/)
+	- 查看修订记录
+	- [使用 Issue 进行讨论](https://guides.github.com/features/issues/)
+	- [GitHub 邮件通知配置指南](https://github.com/OpenMindClub/Share/wiki/HbGitHubNotifyStu)
+- GitBook （非必须掌握）
+	- [GitHub 内容发布为 GitBook 形式](https://github.com/OpenMindClub/Writer002/issues/37)
+	- [给 GitBook 添加评论插件](https://github.com/OpenMindClub/Writer002/issues/46)
+- 开智学堂 APP （必用软件）
+	- [常见问题自检清单](https://github.com/OpenMindClub/OMC.App/issues/35)
+
+#### 反馈渠道
+
+1. 学习疑问优先发布在 [Issues](https://github.com/OpenMindClub/Writer002/issues) 中进行主题异步讨论，发布提问 Issue 注意事项详见 [课程提问方式说明](https://github.com/OpenMindClub/Writer002/issues/63)  ；**发问前建议先检索群聊记录及翻翻 Issue** ，不少问题群友已问过并有解答；
+- 反馈卡片内容错误请点 [视频/卡片内容错误 · Issue #6 · OpenMindClub/Writer002](https://github.com/OpenMindClub/Writer002/issues/6) ；
+- 反馈课程意见建议请点[这里](http://openmind.mikecrm.com/f.php?t=FhI5rV)，会在 3 个工作日内回应，当然也可以直接联系一休啦；
+- 提交开智学堂卡片系统 Bug 请点 [OpenMindClub/OMC.App](https://github.com/OpenMindClub/OMC.App/issues) 。
+
+
+
+
+#### 常用网址
+
+
+（建议将以下页面添加书签以便及时取用）
+
+- [认知写作学二期课程 FAQ · Issue #23](https://github.com/OpenMindClub/Writer002/issues/23)，课程期间会在这个 Issue 持续汇总常见问题，有困难可先查阅这个 Issue
+- 开智学堂 APP Web 版地址：http://OpenMindClub.com 
+- 开智学堂直播答疑地址：http://live.OpenMindClub.com
+- GitHub 课程讨论地址：https://github.com/OpenMindClub/Writer002/issues
+- GitHub 提交开智学堂 APP Bug 地址：https://github.com/openmindclub/omc.app/issues
+
 
 ## 课程安排
 
@@ -81,23 +131,7 @@ Part4：文序（文章篇章结构）
 遇到困难欢迎联系 @一休 或 @章靛 进行解决：）
 
 
-### 反馈渠道
 
-
-1. **学习疑问**优先发布在 [Issues](https://github.com/OpenMindClub/Writer002/issues) 中进行主题异步讨论，尽量在每周六微信群集体答疑前就已进行思考、探索
-- 反馈**视频/卡片内容错误**请点 [视频/卡片内容错误 · Issue #6 · OpenMindClub/Writer002](https://github.com/OpenMindClub/Writer002/issues/6)
-- 反馈**课程意见建议**请点[这里](http://openmind.mikecrm.com/f.php?t=FhI5rV)，会在 3 个工作日内回应
-- 提交**开智学堂卡片系统 Bug** ，优先提交到 [OpenMindClub/OMC.App](https://github.com/OpenMindClub/OMC.App)，若使用手机提交，请点[这里](http://openmind.mikecrm.com/f.php?t=p2DGcY)
-
-### 资源索引
-
-（建议将以下页面添加书签以便及时取用）
-
-- [认知写作学二期课程 FAQ · Issue #23](https://github.com/OpenMindClub/Writer002/issues/23)，课程期间会在这个 Issue 持续汇总常见问题，有困难可先查阅这个 Issue
-- 开智学堂 APP Web 版地址：http://OpenMindClub.com 
-- 开智学堂直播答疑地址：http://live.OpenMindClub.com
-- GitHub 课程讨论地址：https://github.com/OpenMindClub/Writer002/issues
-- GitHub 提交开智学堂 APP Bug 地址：https://github.com/openmindclub/omc.app/issues
 
 ## 附：
 
@@ -118,18 +152,7 @@ Part4：文序（文章篇章结构）
 
 ### 2. writer002 code 文档说明
 
-课程小组已建好每周作业及笔记存放目录，学员 [Fork 课程仓库到自己账号](https://guides.github.com/activities/forking/)后，可直接在相应路径下修改文档内容：
-
-- `note.md` 用于书写学习笔记
-- `assignment.md` 用于书写每周大作业
-
-#### 选修课文件夹说明
-
-> elective 文件夹仅针对报名**选修课**学员
-
-- elective0 幽默与段子
-- elective1 商务计划书
-- elective2 畅销书策划
+课程小组已建好每周作业及笔记存放目录，学员 [Fork](https://guides.github.com/activities/forking/)  [OpenMindClub/BookWriter002](https://github.com/OpenMindClub/BookWriter002)仓库到自己账号后，可直接在相应路径下修改文档内容。
 
 
 
