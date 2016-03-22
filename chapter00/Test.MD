@@ -40,6 +40,10 @@
 - [x] 功课做完啦:smile:
 - [ ] 功课没做完:cry:
 
+##say hi
+胡杨你好，很高兴认识你。
+我曾经在新加坡生活过一年。目前在SF。
+Iris
 
 ###*一些关于Markdown的基本资料在：*##
 - https://github.com/arlmy/Writer002/blob/master/chapter00/markdowntest.md
