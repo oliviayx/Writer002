@@ -41,7 +41,7 @@ Part4：文序（文章篇章结构）
 #### 学习指南
 
 - 课程
-	- 认知写作学课程学习指南： [HbOMWriterStu](https://github.com/OpenMindClub/Writer002/HbOMWriterStu.md)
+	- 认知写作学课程学习指南： [HbOMWriterStu](https://github.com/OpenMindClub/Writer002/blob/master/HbOMWriterStu.md)
 	- 认知写作学二期课程 FAQ ：[FAQ Issue#23 · OpenMindClub/Writer002](https://github.com/OpenMindClub/Writer002/issues/23)
 	- 每周集体答疑纪要：https://github.com/OpenMindClub/Writer002/QA
 	- 每周闪耀榜：[优秀示范 · OpenMindClub/Writer002](https://github.com/OpenMindClub/Writer002/issues?q=is%3Aissue+is%3Aopen+label%3A%E4%BC%98%E7%A7%80%E7%A4%BA%E8%8C%83)
