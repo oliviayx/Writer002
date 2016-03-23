@@ -65,11 +65,11 @@ A：写自己小传，不要完全按时间顺序来写作。推荐非常好的�
 
 答疑过程还提及不少学习建议，现按主题分类汇总如下，并持续增补：
 
-- [认知写作学课程学习指南](https://github.com/OpenMindClub/Writer002/HbOMWriterStu.md)
-- [学习习惯建议](https://github.com/OpenMindClub/Writer002/SuggestionLearningStyle.md)
-- [写作建议](https://github.com/OpenMindClub/Writer002/SuggestionWriting.md)
-- [互评建议](https://github.com/OpenMindClub/Writer002/SuggestionPeerReview.md)
-- [写作清单编制指南](https://github.com/OpenMindClub/Writer002/HbWritingStyleChecklist.md)
+- [认知写作学课程学习指南](https://github.com/OpenMindClub/Writer002/blob/master/HbOMWriterStu.md)
+- [学习习惯建议](https://github.com/OpenMindClub/Writer002/blob/master/SuggestionLearningStyle.md)
+- [写作建议](https://github.com/OpenMindClub/Writer002/blob/master/SuggestionWriting.md)
+- [互评建议](https://github.com/OpenMindClub/Writer002/blob/master/SuggestionPeerReview.md)
+- [写作清单编制指南](https://github.com/OpenMindClub/Writer002/blob/master/HbWritingStyleChecklist.md)
 
 ## CHANGELOG
 

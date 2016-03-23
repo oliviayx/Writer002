@@ -43,16 +43,16 @@ Part4：文序（文章篇章结构）
 - 课程
 	- 认知写作学课程学习指南： [HbOMWriterStu](https://github.com/OpenMindClub/Writer002/blob/master/HbOMWriterStu.md)
 	- 认知写作学二期课程 FAQ ：[FAQ Issue#23 · OpenMindClub/Writer002](https://github.com/OpenMindClub/Writer002/issues/23)
-	- 每周集体答疑纪要：https://github.com/OpenMindClub/Writer002/QA
+	- 每周集体答疑纪要：https://github.com/OpenMindClub/Writer002/blob/master/QA
 	- 每周闪耀榜：[优秀示范 · OpenMindClub/Writer002](https://github.com/OpenMindClub/Writer002/issues?q=is%3Aissue+is%3Aopen+label%3A%E4%BC%98%E7%A7%80%E7%A4%BA%E8%8C%83)
 - 写作
-	- 写作建议：[SuggestionWriting](https://github.com/OpenMindClub/Writer002/SuggestionWriting.md)
-	- 写作清单编制指南：[HbWritingStyleChecklist](https://github.com/OpenMindClub/Writer002/HbWritingStyleChecklist.md)
+	- 写作建议：[SuggestionWriting](https://github.com/OpenMindClub/Writer002/blob/master/SuggestionLearningStyle.md)
+	- 写作清单编制指南：[HbWritingStyleChecklist](https://github.com/OpenMindClub/Writer002/blob/master/HbWritingStyleChecklist.md)
 - 互评
-	- 互评原则建议：[SuggestionPeerReview](https://github.com/OpenMindClub/Writer002/SuggestionPeerReview.md)
+	- 互评原则建议：[SuggestionPeerReview](https://github.com/OpenMindClub/Writer002/blob/master/SuggestionPeerReview.md)
 	- GitHub 互评指南：[HbAssignmentHandup ](https://github.com/OpenMindClub/Share/wiki/HbAssignmentHandup)
 	- 线下互助活动指南：[HbOMeeupOrganizer](https://github.com/OpenMindClub/Share/wiki/HbOMeeupOrganizer)
-- 学习习惯建议：[SuggestionLearningStyle](https://github.com/OpenMindClub/Writer002/SuggestionLearningStyle.md)
+- 学习习惯建议：[SuggestionLearningStyle](https://github.com/OpenMindClub/Writer002/blob/master/SuggestionLearningStyle.md)
 
 #### 课程工具指南
 
@@ -179,5 +179,7 @@ Part4：文序（文章篇章结构）
 
 ## CHANGELOG 
 
+- 160323 张韬更新资源索引错误链接
+- 160322 闪闪更新资源索引
 - 160303 闪闪发布在课程学员仓库
 
